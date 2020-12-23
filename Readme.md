@@ -40,6 +40,8 @@ Pretty basic and minimalist configs.
 
 9. **bonus.sh** = If you wish to download some packages I use on a daily basis, they are included in bonus.sh script. You can run it with either by running setup.sh or running it manually from your shell
 
+10. Wallpaper taken from [Debian art theme->change](https://wiki.debian.org/DebianArt/Themes/Change). Credits to Wilton Gorske
+
 ### In `.vimrc`
 
 Using this vimrc, you get;
